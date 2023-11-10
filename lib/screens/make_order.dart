@@ -58,6 +58,7 @@ class _MakeOrderState extends State<MakeOrder> {
       image: '/images/duvet.jpg'),
 	Item(
 	name: 'Automotive', unit: 'wash', price: 2400, image: '/images/car.jpg'
+  //prompt user to download / use kanaabe
 	),
   ];
 
